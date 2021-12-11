@@ -46,7 +46,7 @@ const SEARCHES = [
   'gay group porn',
   'annem beni neden sevmiyor',
   'dünya düzmü',
-  1
+  'proof that the earth is flat'
 ]
 
 const VIDEOS = [
@@ -71,10 +71,11 @@ const FILE_DOWNLOADS = [
   'gayporn.mp4',
   'how_to_eat_my_dick.jpg',
   'gay-porn.jpg',
+  'patreon.png'
 ]
 
 const PHRASES = [
-  'Allahını sikeyim Allahını sikeyim Allahını sikeyim Allahını sikeyim Allahını sikeyim'
+  'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
   'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
   'I\'ve never seen the inside of my own mouth because it scares me to death.',
