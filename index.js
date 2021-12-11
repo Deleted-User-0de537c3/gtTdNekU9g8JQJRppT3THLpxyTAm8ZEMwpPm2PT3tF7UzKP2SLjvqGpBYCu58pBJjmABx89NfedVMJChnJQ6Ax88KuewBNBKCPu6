@@ -69,9 +69,9 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
+  'gay-porn.jpg',
+  'yarak.jpg',
+  'dunyaninenbuyukyaragi.jpg',
   'cat-cute.jpg',
   'cat-hover.jpg',
   'cat-marshmellows.jpg',
