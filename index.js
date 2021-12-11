@@ -692,8 +692,8 @@ function requestWebauthnAttestation () {
         // User:
         user: {
           id: new Uint8Array(16),
-          name: 'john.p.smith@example.com',
-          displayName: 'John P. Smith'
+          name: 'notable@example.com',
+          displayName: 'Notable'
         },
 
         pubKeyCredParams: [{
