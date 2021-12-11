@@ -63,14 +63,14 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'gay-porn.mp4
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  'gay-porn.jpg',
+   'dick.jpg',
+  'dunyanin_enbuyuk_yaragi.jpg',
+  '000000000000000000000000000000000000000000000000000000000000000000000000000000000.jpg',
+  'start.exe',
+  'gayporn.mp4',
+  'how_to_eat_my_dick.jpg',
+  'gay-porn.jpg',
 ]
 
 const PHRASES = [
