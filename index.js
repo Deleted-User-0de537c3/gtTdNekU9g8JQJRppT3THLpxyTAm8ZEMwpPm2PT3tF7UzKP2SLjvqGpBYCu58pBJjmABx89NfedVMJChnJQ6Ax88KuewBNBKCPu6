@@ -38,20 +38,14 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'where should i bury the body',
-  'why does my eye twitch',
-  'why is my poop green',
-  'why do i feel so empty',
-  'why do i always feel hungry',
-  'why do i always have diarrhea',
-  'why does my anus itch',
-  'why does my belly button smell',
-  'why does my cat attack me',
-  'why does my dog eat poop',
-  'why does my fart smell so bad',
-  'why does my mom hate me',
-  'why does my pee smell bad',
-  'why does my poop float',
+  'gay olduğumu nasıl saklarım',
+  'anneme ona aşık olduğumu nasıl söylerim',
+  'kendimi bokumu yedim ne olur
+  'ceset nasıl saklanır',
+  'gay porn',
+  'gay group porn',
+  'annem beni neden sevmiyor',
+  'dünya düzmü',
   'proof that the earth is flat'
 ]
 
@@ -69,19 +63,19 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
+  'gay-porn.jpg',
+   'dick.jpg',
+  'dunyanin_enbuyuk_yaragi.jpg',
+  'gay-porn.jpg',
+  'gay-porn.jpg',
+  'gay-porn.jpg',
+  'how_to_eat_my_dick.jpg',
+  'gay-porn.jpg',
   'patreon.png'
 ]
 
 const PHRASES = [
-  'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
+  'Allahını sikeyim Allahını sikeyim Allahını sikeyim Allahını sikeyim Alllahını sikeyim Allahını sikeyim !',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
   'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
   'I\'ve never seen the inside of my own mouth because it scares me to death.',
