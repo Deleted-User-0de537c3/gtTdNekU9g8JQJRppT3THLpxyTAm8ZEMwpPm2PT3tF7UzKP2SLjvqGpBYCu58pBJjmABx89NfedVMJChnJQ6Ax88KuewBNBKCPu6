@@ -66,9 +66,9 @@ const FILE_DOWNLOADS = [
   'gay-porn.jpg',
    'dick.jpg',
   'dunyanin_enbuyuk_yaragi.jpg',
-  '00000000.jpg',
-  'start.exe',
-  'gayporn.mp4',
+  'gay-porn.jpg',
+  'gay-porn.jpg',
+  'gay-porn.jpg',
   'how_to_eat_my_dick.jpg',
   'gay-porn.jpg',
   'patreon.png'
