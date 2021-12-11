@@ -38,7 +38,7 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'where should i bury the body',
+  'gay olduğumu nasıl saklarım',
   'why does my eye twitch',
   'why is my poop green',
   'why do i feel so empty',
