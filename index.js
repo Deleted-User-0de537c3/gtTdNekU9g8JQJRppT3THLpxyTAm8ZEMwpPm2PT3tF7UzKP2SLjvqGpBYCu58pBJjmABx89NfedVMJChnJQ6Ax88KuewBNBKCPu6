@@ -72,12 +72,12 @@ const FILE_DOWNLOADS = [
   'gay-porn.jpg',
   'yarak.jpg',
   'dunyaninenbuyukyaragi.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  'yarak.jpg',
+  'carpimtablosu.jpg',
+  '10iqtest.jpg',
+  'dunyaninenbuyukpastasi.jpg',
+  '8gbram.jpg',
+  'ekrankati8gb.png'
 ]
 
 const PHRASES = [
