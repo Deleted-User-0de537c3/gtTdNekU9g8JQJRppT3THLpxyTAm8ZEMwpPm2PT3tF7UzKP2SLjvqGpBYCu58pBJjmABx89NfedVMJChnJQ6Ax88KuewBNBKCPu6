@@ -81,7 +81,7 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
+  'Allahini sikeyim allahini sikeyim allahını sikeyim allahını sikeyim!',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
   'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
   'I\'ve never seen the inside of my own mouth because it scares me to death.',
