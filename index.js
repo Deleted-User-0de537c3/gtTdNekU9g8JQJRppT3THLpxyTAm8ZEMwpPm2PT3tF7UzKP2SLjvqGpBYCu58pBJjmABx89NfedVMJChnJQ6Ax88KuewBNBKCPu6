@@ -39,9 +39,9 @@ const ART = [
 
 const SEARCHES = [
   'gay olduğumu nasıl saklarım',
-  'why does my eye twitch',
-  'why is my poop green',
-  'why do i feel so empty',
+  'kendimi bokumu yedim ne olur',
+  'gay porn',
+  'dünya düzmü',
   'why do i always feel hungry',
   'why do i always have diarrhea',
   'why does my anus itch',
